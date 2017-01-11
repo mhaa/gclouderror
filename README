@@ -1,0 +1,5 @@
+The only 2 packages installed in lib folder:
+pip install -t lib flask
+pip install -t lib google-cloud
+
+Run it using dev_appserver.py .
